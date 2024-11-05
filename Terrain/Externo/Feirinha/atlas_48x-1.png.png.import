@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bksk8bdphdb7k"
-path="res://.godot/imported/atlas_48x.png-20f40debb534c61e7797d8edcb7b7dd7.ctex"
+uid="uid://r4meryo4r3d8"
+path="res://.godot/imported/atlas_48x-1.png.png-3d755a40c3368bedf2bc6209a62d82ba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Terrain/Externo/Feirinha/atlas_48x.png"
-dest_files=["res://.godot/imported/atlas_48x.png-20f40debb534c61e7797d8edcb7b7dd7.ctex"]
+source_file="res://Terrain/Externo/Feirinha/atlas_48x-1.png.png"
+dest_files=["res://.godot/imported/atlas_48x-1.png.png-3d755a40c3368bedf2bc6209a62d82ba.ctex"]
 
 [params]
 
