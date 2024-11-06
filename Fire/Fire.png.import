@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7otgq7vjncjy"
-path="res://.godot/imported/atlas_48x-1.png.png-d165953f09da8cce7c16c368ea13d1b6.ctex"
+uid="uid://kdbfdcndxjc1"
+path="res://.godot/imported/Fire.png-2721572d78c432c29f1384e565005d9f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Terrain/Externo/atlas_48x-1.png.png"
-dest_files=["res://.godot/imported/atlas_48x-1.png.png-d165953f09da8cce7c16c368ea13d1b6.ctex"]
+source_file="res://Fire/Fire.png"
+dest_files=["res://.godot/imported/Fire.png-2721572d78c432c29f1384e565005d9f.ctex"]
 
 [params]
 
