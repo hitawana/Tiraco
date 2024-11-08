@@ -1,8 +1,8 @@
 extends CharacterBody2D
 class_name Snake
 
+var is_dead: bool = false
 var _player_ref = null
-
 @export_category("Objects")
 @export var _texture: Sprite2D = null
 @export var _animation: AnimationPlayer = null
@@ -18,6 +18,9 @@ func _on_detection_area_body_exited(_body) -> void:
 
 
 func _physics_process(delta: float) -> void:
+	if is_dead:
+		return
+		
 	_animate()
 	if _player_ref != null:
 		if  _player_ref.is_dead:
@@ -48,3 +51,13 @@ func _animate() -> void:
 	_animation.play("idle_right")
 	
 	
+func update_health() -> void:
+	is_dead =true
+	
+	
+
+
+
+
+func _on_animation_finished(anim_name: StringName) -> void:
+	queue_free()

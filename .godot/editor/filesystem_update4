@@ -1,6 +1,10 @@
-res://character/scenes/character.tscn
-res://character/scripts/character.gd
 res://terreno.tscn
+res://character/scenes/character.tscn
 res://components/scenes/door_component.tscn
-res://components/scripts/door_component.gd
 res://character/scenes/snake.tscn
+res://character/scenes/test.tscn
+res://character/scenes/characterMain.tscn
+res://character/scripts/character.gd
+res://character/scripts/characterMain.gd
+res://character/scenes/inventory.tscn
+res://character/scripts/snake.gd
