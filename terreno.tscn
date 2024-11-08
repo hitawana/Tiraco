@@ -1,4 +1,4 @@
-[gd_scene load_steps=164 format=4 uid="uid://c0gmx17mdkuyc"]
+[gd_scene load_steps=166 format=4 uid="uid://c0gmx17mdkuyc"]
 
 [ext_resource type="Texture2D" uid="uid://cqmb884cjv42s" path="res://Terrain/Water/Water.png" id="1_esxgp"]
 [ext_resource type="Texture2D" uid="uid://d0osqs5r3oesu" path="res://Terrain/Externo/_srw_tileset_0-1.png/sprite_0.png" id="2_0ukda"]
@@ -69,6 +69,8 @@
 [ext_resource type="Texture2D" uid="uid://cnbistshucnj" path="res://sprites/sprite_oleo-identificado1 (1).png" id="65_i8qd1"]
 [ext_resource type="Texture2D" uid="uid://car50rftov2v7" path="res://sprites/sprite_sabão0 (1).png" id="66_7bepx"]
 [ext_resource type="PackedScene" uid="uid://57mlpj1oxsbh" path="res://character/scenes/slot_equipment.tscn" id="67_3tt47"]
+[ext_resource type="PackedScene" uid="uid://bo2ugvrerltxd" path="res://character/scenes/characterMain.tscn" id="70_t7x8o"]
+[ext_resource type="PackedScene" uid="uid://cmwwqxwjvdgrt" path="res://character/scenes/snake.tscn" id="71_cgfi0"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_mp241"]
 texture = ExtResource("1_esxgp")
@@ -2279,7 +2281,13 @@ rotation = 3.09928
 scale = Vector2(2.31773, 1.71998)
 _teleport_position = Vector2(-9032, 568)
 
+[node name="CharacterMain" parent="." instance=ExtResource("70_t7x8o")]
+position = Vector2(-12333, 1578)
+scale = Vector2(2.22924, 2.22924)
+_move_speed = 150.0
+
 [node name="Character" parent="." instance=ExtResource("57_p6e4a")]
+visible = false
 position = Vector2(-7935, 1265)
 scale = Vector2(2.227, 2.227)
 _move_speed = 200.0
@@ -2433,3 +2441,33 @@ layout_mode = 2
 slot_type = 3
 
 [node name="Components" type="Node2D" parent="."]
+
+[node name="Snake" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-12456, 1533)
+
+[node name="Snake2" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-13121, 1597)
+
+[node name="Snake3" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-12727, 1109)
+
+[node name="Snake4" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-13659, 1422)
+
+[node name="Snake5" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-13503, 1993)
+
+[node name="Snake6" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-13282, 747)
+
+[node name="Snake7" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-13815, 705)
+
+[node name="Snake8" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-13463, 321)
+
+[node name="Snake9" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-13575, -76)
+
+[node name="Snake10" parent="." instance=ExtResource("71_cgfi0")]
+position = Vector2(-12484, -61)

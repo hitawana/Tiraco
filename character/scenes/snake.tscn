@@ -129,5 +129,6 @@ shape = SubResource("RectangleShape2D_6otg2")
 show_behind_parent = true
 shape = SubResource("CircleShape2D_lnxdy")
 
+[connection signal="animation_finished" from="Animation" to="." method="_on_animation_finished"]
 [connection signal="body_entered" from="DetectionArea" to="." method="_on_detection_area_body_entered"]
 [connection signal="body_exited" from="DetectionArea" to="." method="_on_detection_area_body_exited"]

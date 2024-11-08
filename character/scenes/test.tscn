@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://bie002wtsge8l"]
+
+[ext_resource type="PackedScene" uid="uid://bo2ugvrerltxd" path="res://character/scenes/characterMain.tscn" id="1_wcx3m"]
+[ext_resource type="PackedScene" uid="uid://cmwwqxwjvdgrt" path="res://character/scenes/snake.tscn" id="2_lag87"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Character" parent="." instance=ExtResource("1_wcx3m")]
+
+[node name="Snake" parent="." instance=ExtResource("2_lag87")]
+position = Vector2(139, 65)
