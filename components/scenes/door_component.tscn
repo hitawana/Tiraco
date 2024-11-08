@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://cvj6dhave3y3t"]
+
+[ext_resource type="Script" path="res://components/scripts/door_component.gd" id="1_ixqma"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_cv27q"]
+size = Vector2(150, 30)
+
+[node name="DoorComponent" type="Area2D"]
+script = ExtResource("1_ixqma")
+
+[node name="Texture" type="Sprite2D" parent="."]
+
+[node name="Collision" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_cv27q")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

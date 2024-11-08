@@ -1,2 +1,6 @@
-res://terreno.tscn
 res://character/scenes/character.tscn
+res://character/scripts/character.gd
+res://terreno.tscn
+res://components/scenes/door_component.tscn
+res://components/scripts/door_component.gd
+res://character/scenes/snake.tscn
