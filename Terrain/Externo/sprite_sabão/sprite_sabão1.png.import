@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7otgq7vjncjy"
-path="res://.godot/imported/atlas_48x-1.png.png-d165953f09da8cce7c16c368ea13d1b6.ctex"
+uid="uid://hiwdagwnn2oa"
+path="res://.godot/imported/sprite_sabão1.png-cf81675ee31a84a53ca73aca269e4a7b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Terrain/Externo/atlas_48x-1.png.png"
-dest_files=["res://.godot/imported/atlas_48x-1.png.png-d165953f09da8cce7c16c368ea13d1b6.ctex"]
+source_file="res://Terrain/Externo/sprite_sabão/sprite_sabão1.png"
+dest_files=["res://.godot/imported/sprite_sabão1.png-cf81675ee31a84a53ca73aca269e4a7b.ctex"]
 
 [params]
 
