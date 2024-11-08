@@ -1,0 +1,153 @@
+[gd_scene load_steps=11 format=3 uid="uid://bbqv8eku1oxay"]
+
+[ext_resource type="Texture2D" uid="uid://d2ybneu04di64" path="res://sprites/Carved_9Slides.png" id="1_qkdhq"]
+[ext_resource type="PackedScene" uid="uid://c0jeqttm1go2l" path="res://character/scenes/slot.tscn" id="2_epjda"]
+[ext_resource type="Texture2D" uid="uid://bnpk2cwyf2ec7" path="res://sprites/machado.png" id="3_qmf4g"]
+[ext_resource type="Texture2D" uid="uid://car50rftov2v7" path="res://sprites/sprite_sabão0 (1).png" id="4_7oayg"]
+[ext_resource type="Texture2D" uid="uid://bt8n8jokc1cnt" path="res://sprites/sprite_coco.png" id="5_q3n8q"]
+[ext_resource type="Texture2D" uid="uid://cnbistshucnj" path="res://sprites/sprite_oleo-identificado1 (1).png" id="6_lsiyx"]
+[ext_resource type="Texture2D" uid="uid://c6e40ic0yydjv" path="res://sprites/sprite_cesto.png" id="6_ql7pw"]
+[ext_resource type="Texture2D" uid="uid://4adg71o511ie" path="res://sprites/sprite_Leite1 (1).png" id="6_y08gq"]
+[ext_resource type="Texture2D" uid="uid://dnioenave857p" path="res://sprites/sprite_carvão0 (1).png" id="7_nalsi"]
+[ext_resource type="PackedScene" uid="uid://57mlpj1oxsbh" path="res://character/scenes/slot_equipment.tscn" id="8_qgcrg"]
+
+[node name="Inventory" type="TextureRect"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = 320.0
+offset_bottom = 180.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_qkdhq")
+
+[node name="container" type="GridContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -268.0
+offset_top = -56.0
+offset_right = 268.0
+offset_bottom = 140.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/h_separation = 8
+theme_override_constants/v_separation = 8
+columns = 8
+
+[node name="slot 1" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+slot_type = 2
+sprite = ExtResource("3_qmf4g")
+amount = 1
+
+[node name="slot 2" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+sprite = ExtResource("4_7oayg")
+amount = 5
+
+[node name="slot 3" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+sprite = ExtResource("5_q3n8q")
+amount = 10
+
+[node name="slot 4" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+slot_type = 3
+sprite = ExtResource("6_ql7pw")
+amount = 1
+
+[node name="slot 5" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+sprite = ExtResource("7_nalsi")
+amount = 5
+
+[node name="slot 6" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 7" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+sprite = ExtResource("5_q3n8q")
+amount = 1
+
+[node name="slot 8" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 9" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 10" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 11" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 12" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 13" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 14" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 15" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+sprite = ExtResource("6_y08gq")
+amount = 10
+
+[node name="slot 16" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 17" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 18" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 19" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 20" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+sprite = ExtResource("6_lsiyx")
+amount = 99
+
+[node name="slot 21" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 22" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 23" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="slot 24" parent="container" instance=ExtResource("2_epjda")]
+layout_mode = 2
+
+[node name="equipments" type="GridContainer" parent="."]
+custom_minimum_size = Vector2(0, 60)
+layout_mode = 1
+offset_left = 52.0
+offset_top = 36.0
+offset_right = 316.0
+offset_bottom = 96.0
+columns = 4
+
+[node name="slotEquipment 1" parent="equipments" instance=ExtResource("8_qgcrg")]
+layout_mode = 2
+slot_type = 2
+
+[node name="slotEquipment 2" parent="equipments" instance=ExtResource("8_qgcrg")]
+layout_mode = 2
+slot_type = 3
+
+[node name="slotEquipment 3" parent="equipments" instance=ExtResource("8_qgcrg")]
+layout_mode = 2
+
+[node name="slotEquipment 4" parent="equipments" instance=ExtResource("8_qgcrg")]
+layout_mode = 2
