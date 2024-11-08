@@ -1,231 +1,239 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1731071607
-outras casas-1.png.png::CompressedTexture2D::1940792067054764226::1731071542::1731071607::1::::<><>::
-terreno.tscn::PackedScene::6540719817624876674::1731071542::0::1::::<><>::uid://cqmb884cjv42s::::res://Terrain/Water/Water.png<>uid://d0osqs5r3oesu::::res://Terrain/Externo/_srw_tileset_0-1.png/sprite_0.png<>uid://sa5g3hxf0xg8::::res://Terrain/Water/Água.png<>uid://tcmfuc58mnal::::res://Terrain/Water/Foam/Foam.png<>uid://d2h564k6jhg0s::::res://Terrain/Water/Rocks/Rocks_01.png<>uid://bl8wf1elpjwsu::::res://Terrain/Externo/Water_Tile.png<>uid://dhyil4rd8csiv::::res://Terrain/Water/Rocks/Rocks_02.png<>uid://xfppa6tuesck::::res://Terrain/Externo/Water_Tile-0.png<>uid://bgri88g464cuy::::res://Terrain/Water/Rocks/Rocks_03.png<>uid://dgwfcfj5eqxln::::res://Terrain/Water/Terra-1.png.png<>uid://c2ix85yc5roap::::res://Terrain/Water/Rocks/Rocks_04.png<>uid://dc1scsq7elm63::::res://Terrain/Ground/Tilemap_Elevation.png<>uid://uysbc8qe07j2::::res://Terrain/Water/Terra-Lago.png<>uid://q0y251cwld3::::res://Terrain/Water/Terra-Lago2png.png<>uid://cdylew3q5hkos::::res://Terrain/Ground/Shadows.png<>uid://dvl4g36hfvd71::::res://Terrain/Ground/Terra.png<>uid://ci51pbaxkfnqo::::res://Terrain/Ground/Tilemap_Flat.png<>uid://cj6dmf64dwi6g::::res://Terrain/Externo/Casa e vila/casa-1.png.png<>uid://brsskgn4u1ly1::::res://Terrain/Ground/Tilemap_Elevation_brown.png<>uid://cl7n1sdrfqpct::::res://Terrain/Externo/Casa e vila/mapa.png<>uid://23vw6uowjkyi::::res://Terrain/Externo/Palmeira.png<>uid://c2yiho8kjjmiv::::res://Factions/Knights/Buildings/House/House_Red.png<>uid://clh3jwiu3po3i::::res://Terrain/Externo/New Piskel-2-1.png.png<>uid://c7rr537ybs3hn::::res://Tree.png<>uid://15rq05veni2y::::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/sprite_Feira0.png<>uid://c2gfdvr5en2g4::::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/sprite_Feira1.png<>uid://c2sgvxtycxhjn::::res://Terrain/Externo/_srw_tileset_0-1.png/sprite_2.png<>uid://dpuhawhhpwd0m::::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/sprite_Feira2.png<>uid://2npkfiix0rw3::::res://Terrain/Externo/_srw_tileset_0-1.png/sprite_3.png<>uid://bhrbahnmn7wdc::::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/sprite_Feira3.png<>uid://d0klsc2x54can::::res://Terrain/Externo/_srw_tileset_0-1.png/sprite_4.png<>uid://ct5m4ntpl6df1::::res://Terrain/Externo/Feirinha/items free-1.png (1)-1.png.png<>uid://bilvdjet1egnm::::res://Terrain/Water/sprite_1.png<>uid://detr8kas2ha2s::::res://Terrain/Externo/Feirinha/sprite_Feira0-1.png.png<>uid://bt1kbvowdnbrt::::res://Terrain/Externo/sprite_carvão/sprite_carvão0.png<>uid://dvmurjtpqicry::::res://Terrain/Palmeira floresta.png<>uid://bfj68wsmme6pv::::res://Terrain/Externo/Palmeira-1.png<>uid://counkhdjgqs3x::::res://Terrain/Externo/sprite_carvão/sprite_carvão1.png<>uid://dbdmrgmicdbag::::res://Terrain/Externo/sprite_sabão/sprite_sabão0.png<>uid://hiwdagwnn2oa::::res://Terrain/Externo/sprite_sabão/sprite_sabão1.png<>uid://2wetdovx3ulm::::res://outras casas-1.png.png<>uid://cgm37nmpicnnb::::res://Terrain/Externo/sprite_sabão/sprite_sabão2.png<>uid://bdxlsud71biw5::::res://Terrain/Externo/Leite de coco/sprite_Leite0.png<>uid://c1wwqocy5wwvx::::res://Terrain/Externo/Leite de coco/sprite_Leite1.png<>uid://o6fpei66252c::::res://Terrain/Externo/Tree0.png<>uid://b8ymgf6grpd6w::::res://Terrain/Externo/Óleo identificado/sprite_oleo-identificado0.png<>uid://dri0s4dg5mype::::res://Terrain/Externo/Óleo identificado/sprite_oleo-identificado1.png<>uid://8ut7cw6bp74i::::res://Terrain/Externo/Tree1.png<>uid://b01pisaxsvlgy::::res://Terrain/Externo/Tree2.png<>uid://b126hura708we::::res://Terrain/Externo/Feirinha/farm bridges free.png<>uid://chcup6dp06ttk::::res://Terrain/Externo/Floresta/House-1.png.png<>uid://r4meryo4r3d8::::res://Terrain/Externo/Feirinha/atlas_48x-1.png.png<>uid://kdbfdcndxjc1::::res://Fire/Fire.png<>uid://d0nawj3eltki2::::res://Fire/GoldMine_Active-1.png (1).png<>uid://b45exwdsort35::::res://Terrain/Cenário 3/WhatsApp Image 2024-11-05 at 19.51.32 (1)-1.png (2).png<>uid://bepu6w8hn0l8w::::res://Terrain/Externo/Casa e vila/artwork-1.png.png
-Tree.png::CompressedTexture2D::7055066069496503307::1731071542::1731071606::1::::<><>::
-::res://character/::1731071585
-::res://character/assets/::1731071607
-player-2.png::CompressedTexture2D::7675263341908011398::1730739035::1731071607::1::::<><>::
-player.png::CompressedTexture2D::6975344182169327190::1730739035::1731071607::1::::<><>::
-::res://character/scenes/::1731071585
-character.tscn::PackedScene::1506062351901163552::1730759626::0::1::::<><>::res://character/scripts/character.gd<>uid://c6m55t5xq2r0i::::res://character/assets/player.png
-inventory.tscn::PackedScene::2490973785928521988::1731034588::0::1::::<><>::uid://d2ybneu04di64::::res://sprites/Carved_9Slides.png<>uid://c0jeqttm1go2l::::res://character/scenes/slot.tscn<>uid://bnpk2cwyf2ec7::::res://sprites/machado.png<>uid://car50rftov2v7::::res://sprites/sprite_sabão0 (1).png<>uid://bt8n8jokc1cnt::::res://sprites/sprite_coco.png<>uid://cnbistshucnj::::res://sprites/sprite_oleo-identificado1 (1).png<>uid://c6e40ic0yydjv::::res://sprites/sprite_cesto.png<>uid://4adg71o511ie::::res://sprites/sprite_Leite1 (1).png<>uid://dnioenave857p::::res://sprites/sprite_carvão0 (1).png<>uid://57mlpj1oxsbh::::res://character/scenes/slot_equipment.tscn
-slot_equipment1.tscn::PackedScene::6181728832695279008::1731071865::0::1::::<><>::res://character/scripts/slot_equipment.gd<>uid://cdylew3q5hkos::::res://Terrain/Ground/Shadows.png
-slot.tscn::PackedScene::6546414326672253289::1731034588::0::1::::<><>::res://character/scripts/slot.gd<>uid://cdylew3q5hkos::::res://Terrain/Ground/Shadows.png
-slot_equipment.tscn::PackedScene::2172474447871482249::1731034588::0::1::::<><>::res://character/scripts/slot_equipment.gd<>uid://cdylew3q5hkos::::res://Terrain/Ground/Shadows.png
-::res://character/scripts/::1731071585
-character.gd::GDScript::-1::1731013397::0::1::::Character<>CharacterBody2D<>::
-enum.gd::GDScript::-1::1730987868::0::1::::Enum<>RefCounted<>::
-slot.gd::GDScript::-1::1731012598::0::1::::Slot<>Control<>::
-slot_equipment.gd::GDScript::-1::1730988504::0::1::::<>Slot<>::
-ui_inventory.gd::GDScript::-1::1731013036::0::1::::<>Control<>::
-::res://Factions/::1731071542
-::res://Factions/Goblins/::1731071542
-::res://Factions/Goblins/Buildings/::1731071542
-::res://Factions/Goblins/Buildings/Wood_House/::1731071607
-Goblin_House.png::CompressedTexture2D::9105953562532466090::1731071542::1731071607::1::::<><>::
-Goblin_House_Destroyed.png::CompressedTexture2D::5006706850806294282::1731071542::1731071607::1::::<><>::
-::res://Factions/Goblins/Buildings/Wood_Tower/::1731071608
-Wood_Tower_Blue.png::CompressedTexture2D::938311579514125897::1731071542::1731071607::1::::<><>::
-Wood_Tower_Destroyed.png::CompressedTexture2D::7398157685006617343::1731071542::1731071607::1::::<><>::
-Wood_Tower_InConstruction.png::CompressedTexture2D::4475075497747303934::1731071542::1731071607::1::::<><>::
-Wood_Tower_Purple.png::CompressedTexture2D::7193113635842421740::1731071542::1731071607::1::::<><>::
-Wood_Tower_Red.png::CompressedTexture2D::3373531301671382363::1731071542::1731071608::1::::<><>::
-Wood_Tower_Yellow.png::CompressedTexture2D::7890581479253519311::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/::1731071542
-::res://Factions/Goblins/Troops/Barrel/::1731071542
-::res://Factions/Goblins/Troops/Barrel/Blue/::1731071608
-Barrel_Blue.png::CompressedTexture2D::5834898559148433253::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/Barrel/Purple/::1731071608
-Barrel_Purple.png::CompressedTexture2D::8192105664424358745::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/Barrel/Red/::1731071608
-Barrel_Red.png::CompressedTexture2D::2683649350661712721::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/Barrel/Yellow/::1731071608
-Barrel_Yellow.png::CompressedTexture2D::7238575145365662555::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/TNT/::1731071542
-::res://Factions/Goblins/Troops/TNT/Blue/::1731071608
-TNT_Blue.png::CompressedTexture2D::2897176050629040126::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/TNT/Dynamite/::1731071608
-Dynamite.png::CompressedTexture2D::6868489239197627440::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/TNT/Purple/::1731071608
-TNT_Purple.png::CompressedTexture2D::4229882282292706536::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/TNT/Red/::1731071608
-TNT_Red.png::CompressedTexture2D::4423844469022710637::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/TNT/Yellow/::1731071608
-TNT_Yellow.png::CompressedTexture2D::3708555040437506765::1731071542::1731071608::1::::<><>::
-::res://Factions/Goblins/Troops/Torch/::1731071542
-::res://Factions/Goblins/Troops/Torch/Blue/::1731071607
-Torch_Blue.png::CompressedTexture2D::6796931206061355726::1731071542::1731071607::1::::<><>::
-::res://Factions/Goblins/Troops/Torch/Purple/::1731071607
-Torch_Purple.png::CompressedTexture2D::6111432398377158303::1731071542::1731071607::1::::<><>::
-::res://Factions/Goblins/Troops/Torch/Red/::1731071607
-Torch_Red.png::CompressedTexture2D::2709289514148830015::1731071542::1731071607::1::::<><>::
-::res://Factions/Goblins/Troops/Torch/Yellow/::1731071607
-Torch_Yellow.png::CompressedTexture2D::3997734419156105726::1731071542::1731071607::1::::<><>::
-::res://Factions/Knights/::1731071542
-::res://Factions/Knights/Buildings/::1731071542
-::res://Factions/Knights/Buildings/Castle/::1731071607
-Castle_Blue.png::CompressedTexture2D::7276686622304319533::1731071542::1731071607::1::::<><>::
-Castle_Construction.png::CompressedTexture2D::4603488985276990753::1731071542::1731071607::1::::<><>::
-Castle_Destroyed.png::CompressedTexture2D::149566018400522683::1731071542::1731071607::1::::<><>::
-Castle_Purple.png::CompressedTexture2D::6418271430704735858::1731071542::1731071607::1::::<><>::
-Castle_Red.png::CompressedTexture2D::5750734080420062383::1731071542::1731071607::1::::<><>::
-Castle_Yellow.png::CompressedTexture2D::7725509231852493167::1731071542::1731071607::1::::<><>::
-::res://Factions/Knights/Buildings/House/::1731071607
-House_Blue.png::CompressedTexture2D::499817443541277694::1731071542::1731071607::1::::<><>::
-House_Construction.png::CompressedTexture2D::8616155425608123099::1731071542::1731071607::1::::<><>::
-House_Destroyed.png::CompressedTexture2D::6562014969970297973::1731071542::1731071607::1::::<><>::
-House_Purple.png::CompressedTexture2D::485874084690845652::1731071542::1731071607::1::::<><>::
-House_Red.png::CompressedTexture2D::6717984234982173997::1731071542::1731071607::1::::<><>::
-House_Yellow-1.png.png::CompressedTexture2D::3182664033068192366::1731071542::1731071607::1::::<><>::
-House_Yellow.png::CompressedTexture2D::4427157145352367859::1731071542::1731071607::1::::<><>::
-::res://Factions/Knights/Buildings/Tower/::1731071609
-Tower_Blue.png::CompressedTexture2D::8313070289206305475::1731071542::1731071607::1::::<><>::
-Tower_Construction.png::CompressedTexture2D::7085730652925035171::1731071542::1731071609::1::::<><>::
-Tower_Destroyed.png::CompressedTexture2D::1221418140446581794::1731071542::1731071609::1::::<><>::
-Tower_Purple.png::CompressedTexture2D::2477020742753797103::1731071542::1731071609::1::::<><>::
-Tower_Red.png::CompressedTexture2D::8655825299042954785::1731071542::1731071609::1::::<><>::
-Tower_Yellow.png::CompressedTexture2D::4243773726334359243::1731071542::1731071609::1::::<><>::
-::res://Factions/Knights/Troops/::1731071542
-::res://Factions/Knights/Troops/Archer/::1731071542
-::res://Factions/Knights/Troops/Archer/Archer + Bow/::1731071609
-Archer_Blue_(NoArms).png::CompressedTexture2D::4658360252482183215::1731071542::1731071609::1::::<><>::
-Archer_Bow_Blue.png::CompressedTexture2D::3844469997993954152::1731071542::1731071609::1::::<><>::
-Archer_Bow_Purple.png::CompressedTexture2D::8227127226384809395::1731071542::1731071609::1::::<><>::
-Archer_Bow_Red.png::CompressedTexture2D::1524414190704813175::1731071542::1731071609::1::::<><>::
-Archer_Bow_Yellow.png::CompressedTexture2D::8592572534204747510::1731071542::1731071609::1::::<><>::
-Archer_Purple_(NoArms).png::CompressedTexture2D::3548575203790236314::1731071542::1731071609::1::::<><>::
-Archer_Red_(NoArms).png::CompressedTexture2D::967723219077447869::1731071542::1731071609::1::::<><>::
-Archer_Yellow_(NoArms).png::CompressedTexture2D::2230296339753781834::1731071542::1731071609::1::::<><>::
-::res://Factions/Knights/Troops/Archer/Arrow/::1731071609
-Arrow.png::CompressedTexture2D::6050610975387370681::1731071542::1731071609::1::::<><>::
-::res://Factions/Knights/Troops/Archer/Blue/::1731071610
-Archer_Blue.png::CompressedTexture2D::9102773586485253989::1731071542::1731071609::1::::<><>::
-::res://Factions/Knights/Troops/Archer/Purple/::1731071610
-Archer_Purlple.png::CompressedTexture2D::5866218260525637199::1731071542::1731071610::1::::<><>::
-::res://Factions/Knights/Troops/Archer/Red/::1731071610
-Archer_Red.png::CompressedTexture2D::4698576150131377970::1731071542::1731071610::1::::<><>::
-::res://Factions/Knights/Troops/Archer/Yellow/::1731071610
-Archer_Yellow.png::CompressedTexture2D::661185475317295707::1731071542::1731071610::1::::<><>::
-::res://Factions/Knights/Troops/Dead/::1731071609
-Dead.png::CompressedTexture2D::924239588970668520::1731071542::1731071609::1::::<><>::
-::res://Factions/Knights/Troops/Pawn/::1731071542
-::res://Factions/Knights/Troops/Pawn/Blue/::1731071608
-Pawn_Blue.png::CompressedTexture2D::1229859363898626387::1731071542::1731071608::1::::<><>::
-::res://Factions/Knights/Troops/Pawn/Purple/::1731071608
-Pawn_Purple.png::CompressedTexture2D::3472674156353717671::1731071542::1731071608::1::::<><>::
-::res://Factions/Knights/Troops/Pawn/Red/::1731071608
-Pawn_Red.png::CompressedTexture2D::7413285870637920049::1731071542::1731071608::1::::<><>::
-::res://Factions/Knights/Troops/Pawn/Yellow/::1731071608
-Pawn_Yellow.png::CompressedTexture2D::4504503668429643224::1731071542::1731071608::1::::<><>::
-::res://Factions/Knights/Troops/Warrior/::1731071542
-::res://Factions/Knights/Troops/Warrior/Blue/::1731071608
-Warrior_Blue.png::CompressedTexture2D::2345505395233457198::1731071542::1731071608::1::::<><>::
-::res://Factions/Knights/Troops/Warrior/Purple/::1731071609
-Warrior_Purple.png::CompressedTexture2D::7084131552657501435::1731071542::1731071609::1::::<><>::
-::res://Factions/Knights/Troops/Warrior/Red/::1731071609
-Warrior_Red.png::CompressedTexture2D::328123045729239053::1731071542::1731071609::1::::<><>::
-::res://Factions/Knights/Troops/Warrior/Yellow/::1731071609
-Warrior_Yellow.png::CompressedTexture2D::2735324827759753592::1731071542::1731071609::1::::<><>::
-::res://Fire/::1731071608
-Fire.png::CompressedTexture2D::708151376860037386::1731071542::1731071608::1::::<><>::
-GoldMine_Active-1.png (1).png::CompressedTexture2D::8940859856460672539::1731071542::1731071608::1::::<><>::
-GoldMine_Active-1.png.png::CompressedTexture2D::2604274186991991998::1731071542::1731071608::1::::<><>::
-::res://sprites/::1731071609
-Carved_9Slides.png::CompressedTexture2D::9103990069881398755::1730947110::1731071608::1::::<><>::
-machado.png::CompressedTexture2D::3330496843792110748::1730947210::1731071608::1::::<><>::
-sprite_carvão0 (1).png::CompressedTexture2D::8089089905244926383::1730995643::1731071608::1::::<><>::
-sprite_cesto.png::CompressedTexture2D::6958758893264609715::1730995409::1731071609::1::::<><>::
-sprite_coco.png::CompressedTexture2D::3788981925599979269::1730995822::1731071609::1::::<><>::
-sprite_Leite1 (1).png::CompressedTexture2D::2035671052834025580::1730986263::1731071609::1::::<><>::
-sprite_oleo-identificado1 (1).png::CompressedTexture2D::167290577022414811::1730986137::1731071609::1::::<><>::
-sprite_sabão0 (1).png::CompressedTexture2D::4809802845339648254::1730995703::1731071609::1::::<><>::
-::res://Terrain/::1731071607
-Palmeira floresta.png::CompressedTexture2D::8659245501643078338::1731071542::1731071607::1::::<><>::
-::res://Terrain/Bridge/::1731071605
-Bridge_All.png::CompressedTexture2D::150727317735402666::1731071542::1731071605::1::::<><>::
-::res://Terrain/Cenário 3/::1731071608
-WhatsApp Image 2024-11-05 at 19.51.32 (1)-1.png (1).png::CompressedTexture2D::1639719928125940226::1731071542::1731071606::1::::<><>::
-WhatsApp Image 2024-11-05 at 19.51.32 (1)-1.png (2).png::CompressedTexture2D::4484113584034065802::1731071542::1731071608::1::::<><>::
-::res://Terrain/Externo/::1731071607
-icon.svg::CompressedTexture2D::1665760850751211657::1731071542::1731071606::1::::<><>::
-items free.png::CompressedTexture2D::4070739118511736642::1731071542::1731071606::1::::<><>::
-New Piskel-2-1.png.png::CompressedTexture2D::5561086608444452912::1731071542::1731071606::1::::<><>::
-Palmeira-1.png::CompressedTexture2D::2757886643526060271::1731071542::1731071607::1::::<><>::
-Palmeira.png::CompressedTexture2D::1954217359440355784::1731071542::1731071607::1::::<><>::
-plants free.png::CompressedTexture2D::7613420380813384743::1731071542::1731071607::1::::<><>::
-Tree0.png::CompressedTexture2D::1046970117083569464::1731071542::1731071607::1::::<><>::
-Tree1.png::CompressedTexture2D::2358730303846643146::1731071542::1731071607::1::::<><>::
-Tree2.png::CompressedTexture2D::4195741583982410680::1731071542::1731071607::1::::<><>::
-Water_Middle.png::CompressedTexture2D::8781519877467166710::1731071542::1731071607::1::::<><>::
-Water_Tile-0.png::CompressedTexture2D::1625602883024228886::1731071542::1731071607::1::::<><>::
-Water_Tile.png::CompressedTexture2D::3227968504712352488::1731071542::1731071607::1::::<><>::
-::res://Terrain/Externo/_srw_tileset_0-1.png/::1731071605
-sprite_0.png::CompressedTexture2D::8944006901734034520::1731071542::1731071605::1::::<><>::
-sprite_1.png::CompressedTexture2D::5922304599683072150::1731071542::1731071605::1::::<><>::
-sprite_2.png::CompressedTexture2D::6705501987297126515::1731071542::1731071605::1::::<><>::
-sprite_3.png::CompressedTexture2D::1922864577230605572::1731071542::1731071605::1::::<><>::
-sprite_4.png::CompressedTexture2D::8935327098624096253::1731071542::1731071605::1::::<><>::
-::res://Terrain/Externo/Casa e vila/::1731071606
-artwork-1.png.png::CompressedTexture2D::2699412630851173980::1731071542::1731071605::1::::<><>::
-casa-1.png.png::CompressedTexture2D::5468740562837703684::1731071542::1731071606::1::::<><>::
-farm objects free.png::CompressedTexture2D::2775074994328584679::1731071542::1731071605::1::::<><>::
-furniture free.png::CompressedTexture2D::1506867761070672115::1731071542::1731071605::1::::<><>::
-mapa.png::CompressedTexture2D::5611815437916408515::1731071542::1731071606::1::::<><>::
-::res://Terrain/Externo/Feirinha/::1731071606
-atlas_48x-1.png (2).png::CompressedTexture2D::4662530197066994538::1731071542::1731071606::1::::<><>::
-atlas_48x-1.png.png::CompressedTexture2D::1253813974450909967::1731071542::1731071606::1::::<><>::
-farm bridges free.png::CompressedTexture2D::4268964621747113852::1731071542::1731071604::1::::<><>::
-farm inside free.png::CompressedTexture2D::7296509905673670943::1731071542::1731071604::1::::<><>::
-items free-1.png (1)-1.png.png::CompressedTexture2D::6169141833919339160::1731071542::1731071604::1::::<><>::
-sprite_Feira0-1.png.png::CompressedTexture2D::7480332249122156112::1731071542::1731071605::1::::<><>::
-::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/::1731071606
-sprite_Feira0.png::CompressedTexture2D::1887903389178039958::1731071542::1731071605::1::::<><>::
-sprite_Feira1.png::CompressedTexture2D::6680636485103960701::1731071542::1731071605::1::::<><>::
-sprite_Feira2.png::CompressedTexture2D::8253808446346645802::1731071542::1731071606::1::::<><>::
-sprite_Feira3.png::CompressedTexture2D::2912898116280899536::1731071542::1731071606::1::::<><>::
-::res://Terrain/Externo/Floresta/::1731071605
-Beach_Tile.png::CompressedTexture2D::4282676551289312103::1731071542::1731071604::1::::<><>::
-Cliff_Tile.png::CompressedTexture2D::5795214154482466716::1731071542::1731071604::1::::<><>::
-FarmLand_Tile.png::CompressedTexture2D::4982285437278298246::1731071542::1731071604::1::::<><>::
-Grass_Middle.png::CompressedTexture2D::5245282675406967354::1731071542::1731071604::1::::<><>::
-House-1.png.png::CompressedTexture2D::5269534788698899588::1731071542::1731071604::1::::<><>::
-Oak_Tree-1.png.png::CompressedTexture2D::7502227038167739644::1731071542::1731071604::1::::<><>::
-objects.png::CompressedTexture2D::3342309092279979148::1731071542::1731071604::1::::<><>::
-Path_Middle.png::CompressedTexture2D::8884842524049317056::1731071542::1731071604::1::::<><>::
-Path_Tile.png::CompressedTexture2D::4481941220661830276::1731071542::1731071604::1::::<><>::
-seasonal sample (summer).png::CompressedTexture2D::9070915890194745130::1731071542::1731071604::1::::<><>::
-spring farm tilemap.png::CompressedTexture2D::5989259882381288349::1731071542::1731071604::1::::<><>::
-::res://Terrain/Externo/Leite de coco/::1731071605
-sprite_Leite0.png::CompressedTexture2D::2645168990751436050::1731071542::1731071604::1::::<><>::
-sprite_Leite1.png::CompressedTexture2D::6644532698655641673::1731071542::1731071605::1::::<><>::
-::res://Terrain/Externo/sprite_carvão/::1731071606
-sprite_carvão0.png::CompressedTexture2D::3774292615764555953::1731071542::1731071605::1::::<><>::
-sprite_carvão1.png::CompressedTexture2D::5797580284960315735::1731071542::1731071606::1::::<><>::
-::res://Terrain/Externo/sprite_sabão/::1731071606
-sprite_sabão0.png::CompressedTexture2D::7236403324433124674::1731071542::1731071606::1::::<><>::
-sprite_sabão1.png::CompressedTexture2D::509178069007602624::1731071542::1731071606::1::::<><>::
-sprite_sabão2.png::CompressedTexture2D::5220504885499052383::1731071542::1731071606::1::::<><>::
-::res://Terrain/Externo/Óleo identificado/::1731071606
-sprite_oleo-identificado0.png::CompressedTexture2D::4752937219323843272::1731071542::1731071606::1::::<><>::
-sprite_oleo-identificado1.png::CompressedTexture2D::8370539012192551586::1731071542::1731071606::1::::<><>::
-::res://Terrain/Ground/::1731071607
-Shadows.png::CompressedTexture2D::5033629194029355438::1731071542::1731071607::1::::<><>::
-Terra.png::CompressedTexture2D::8657708949194598142::1731071542::1731071606::1::::<><>::
-Tilemap_Elevation.png::CompressedTexture2D::7354411009015427714::1731071542::1731071606::1::::<><>::
-Tilemap_Elevation_brown.png::CompressedTexture2D::3617900925489520614::1731071542::1731071606::1::::<><>::
-Tilemap_Flat.png::CompressedTexture2D::5397888931414696330::1731071542::1731071606::1::::<><>::
-::res://Terrain/Water/::1731071606
-sprite_1.png::CompressedTexture2D::2971920482109379454::1731071542::1731071606::1::::<><>::
-Terra-1.png.png::CompressedTexture2D::7626118857937509023::1731071542::1731071606::1::::<><>::
-Terra-Lago2png.png::CompressedTexture2D::34592293597293118::1731071542::1731071606::1::::<><>::
-Terra-Lago.png::CompressedTexture2D::1454416787280361621::1731071542::1731071606::1::::<><>::
-Water.png::CompressedTexture2D::5920756825008706132::1731071542::1731071606::1::::<><>::
-Água.png::CompressedTexture2D::1265232892551147009::1731071542::1731071606::1::::<><>::
-::res://Terrain/Water/Foam/::1731071606
-Foam.png::CompressedTexture2D::1338455372477717103::1731071542::1731071606::1::::<><>::
-::res://Terrain/Water/Rocks/::1731071606
-Rocks_01.png::CompressedTexture2D::9070689883024648100::1731071542::1731071606::1::::<><>::
-Rocks_02.png::CompressedTexture2D::7700635951937384365::1731071542::1731071606::1::::<><>::
-Rocks_03.png::CompressedTexture2D::2843194578380882624::1731071542::1731071606::1::::<><>::
-Rocks_04.png::CompressedTexture2D::6685912202585500527::1731071542::1731071606::1::::<><>::
+::res://::1731079725
+outras casas-1.png.png::CompressedTexture2D::1940792067054764226::1731074218::1731078084::1::::<><>::
+terreno.tscn::PackedScene::6540719817624876674::1731079668::0::1::::<><>::uid://cqmb884cjv42s::::res://Terrain/Water/Water.png<>uid://d0osqs5r3oesu::::res://Terrain/Externo/_srw_tileset_0-1.png/sprite_0.png<>uid://sa5g3hxf0xg8::::res://Terrain/Water/Água.png<>uid://tcmfuc58mnal::::res://Terrain/Water/Foam/Foam.png<>uid://d2h564k6jhg0s::::res://Terrain/Water/Rocks/Rocks_01.png<>uid://bl8wf1elpjwsu::::res://Terrain/Externo/Water_Tile.png<>uid://dhyil4rd8csiv::::res://Terrain/Water/Rocks/Rocks_02.png<>uid://xfppa6tuesck::::res://Terrain/Externo/Water_Tile-0.png<>uid://bgri88g464cuy::::res://Terrain/Water/Rocks/Rocks_03.png<>uid://dgwfcfj5eqxln::::res://Terrain/Water/Terra-1.png.png<>uid://c2ix85yc5roap::::res://Terrain/Water/Rocks/Rocks_04.png<>uid://dc1scsq7elm63::::res://Terrain/Ground/Tilemap_Elevation.png<>uid://uysbc8qe07j2::::res://Terrain/Water/Terra-Lago.png<>uid://q0y251cwld3::::res://Terrain/Water/Terra-Lago2png.png<>uid://cdylew3q5hkos::::res://Terrain/Ground/Shadows.png<>uid://dvl4g36hfvd71::::res://Terrain/Ground/Terra.png<>uid://ci51pbaxkfnqo::::res://Terrain/Ground/Tilemap_Flat.png<>uid://cj6dmf64dwi6g::::res://Terrain/Externo/Casa e vila/casa-1.png.png<>uid://brsskgn4u1ly1::::res://Terrain/Ground/Tilemap_Elevation_brown.png<>uid://cl7n1sdrfqpct::::res://Terrain/Externo/Casa e vila/mapa.png<>uid://23vw6uowjkyi::::res://Terrain/Externo/Palmeira.png<>uid://c2yiho8kjjmiv::::res://Factions/Knights/Buildings/House/House_Red.png<>uid://clh3jwiu3po3i::::res://Terrain/Externo/New Piskel-2-1.png.png<>uid://c7rr537ybs3hn::::res://Tree.png<>uid://15rq05veni2y::::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/sprite_Feira0.png<>uid://c2gfdvr5en2g4::::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/sprite_Feira1.png<>uid://c2sgvxtycxhjn::::res://Terrain/Externo/_srw_tileset_0-1.png/sprite_2.png<>uid://dpuhawhhpwd0m::::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/sprite_Feira2.png<>uid://2npkfiix0rw3::::res://Terrain/Externo/_srw_tileset_0-1.png/sprite_3.png<>uid://bhrbahnmn7wdc::::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/sprite_Feira3.png<>uid://d0klsc2x54can::::res://Terrain/Externo/_srw_tileset_0-1.png/sprite_4.png<>uid://ct5m4ntpl6df1::::res://Terrain/Externo/Feirinha/items free-1.png (1)-1.png.png<>uid://bilvdjet1egnm::::res://Terrain/Water/sprite_1.png<>uid://detr8kas2ha2s::::res://Terrain/Externo/Feirinha/sprite_Feira0-1.png.png<>uid://bt1kbvowdnbrt::::res://Terrain/Externo/sprite_carvão/sprite_carvão0.png<>uid://dvmurjtpqicry::::res://Terrain/Palmeira floresta.png<>uid://bfj68wsmme6pv::::res://Terrain/Externo/Palmeira-1.png<>uid://counkhdjgqs3x::::res://Terrain/Externo/sprite_carvão/sprite_carvão1.png<>uid://dbdmrgmicdbag::::res://Terrain/Externo/sprite_sabão/sprite_sabão0.png<>uid://hiwdagwnn2oa::::res://Terrain/Externo/sprite_sabão/sprite_sabão1.png<>uid://2wetdovx3ulm::::res://outras casas-1.png.png<>uid://cgm37nmpicnnb::::res://Terrain/Externo/sprite_sabão/sprite_sabão2.png<>uid://bdxlsud71biw5::::res://Terrain/Externo/Leite de coco/sprite_Leite0.png<>uid://c1wwqocy5wwvx::::res://Terrain/Externo/Leite de coco/sprite_Leite1.png<>uid://o6fpei66252c::::res://Terrain/Externo/Tree0.png<>uid://b8ymgf6grpd6w::::res://Terrain/Externo/Óleo identificado/sprite_oleo-identificado0.png<>uid://dri0s4dg5mype::::res://Terrain/Externo/Óleo identificado/sprite_oleo-identificado1.png<>uid://8ut7cw6bp74i::::res://Terrain/Externo/Tree1.png<>uid://b01pisaxsvlgy::::res://Terrain/Externo/Tree2.png<>uid://b126hura708we::::res://Terrain/Externo/Feirinha/farm bridges free.png<>uid://chcup6dp06ttk::::res://Terrain/Externo/Floresta/House-1.png.png<>uid://r4meryo4r3d8::::res://Terrain/Externo/Feirinha/atlas_48x-1.png.png<>uid://kdbfdcndxjc1::::res://Fire/Fire.png<>uid://d0nawj3eltki2::::res://Fire/GoldMine_Active-1.png (1).png<>uid://b45exwdsort35::::res://Terrain/Cenário 3/WhatsApp Image 2024-11-05 at 19.51.32 (1)-1.png (2).png<>uid://bepu6w8hn0l8w::::res://Terrain/Externo/Casa e vila/artwork-1.png.png<>uid://cvj6dhave3y3t::::res://components/scenes/door_component.tscn<>uid://vpsvkxtq30ym::::res://character/scenes/character.tscn<>res://character/scripts/ui_inventory.gd<>uid://d2ybneu04di64::::res://sprites/Carved_9Slides.png<>uid://c0jeqttm1go2l::::res://character/scenes/slot.tscn<>uid://bnpk2cwyf2ec7::::res://sprites/machado.png<>uid://dnioenave857p::::res://sprites/sprite_carvão0 (1).png<>uid://c6e40ic0yydjv::::res://sprites/sprite_cesto.png<>uid://bt8n8jokc1cnt::::res://sprites/sprite_coco.png<>uid://4adg71o511ie::::res://sprites/sprite_Leite1 (1).png<>uid://cnbistshucnj::::res://sprites/sprite_oleo-identificado1 (1).png<>uid://car50rftov2v7::::res://sprites/sprite_sabão0 (1).png<>uid://57mlpj1oxsbh::::res://character/scenes/slot_equipment.tscn
+Tree.png::CompressedTexture2D::7055066069496503307::1731074218::1731078084::1::::<><>::
+::res://character/::1731074218
+::res://character/assets/::1731079725
+Player-1.png::CompressedTexture2D::7712415732700687519::1731079718::1731079723::1::::<><>::
+player-2.png::CompressedTexture2D::7675263341908011398::1731074218::1731078085::1::::<><>::
+player.png::CompressedTexture2D::6975344182169327190::1731074218::1731078085::1::::<><>::
+snake-SWEN.png::CompressedTexture2D::4958773962236477285::1731079718::1731079726::1::::<><>::
+::res://character/assets/assets/::1731079725
+::res://character/scenes/::1731079668
+character.tscn::PackedScene::1506062351901163552::1731079668::0::1::::<><>::res://character/scripts/character.gd<>uid://c6m55t5xq2r0i::::res://character/assets/player.png
+inventory.tscn::PackedScene::2490973785928521988::1731074218::0::1::::<><>::uid://d2ybneu04di64::::res://sprites/Carved_9Slides.png<>uid://c0jeqttm1go2l::::res://character/scenes/slot.tscn<>uid://bnpk2cwyf2ec7::::res://sprites/machado.png<>uid://car50rftov2v7::::res://sprites/sprite_sabão0 (1).png<>uid://bt8n8jokc1cnt::::res://sprites/sprite_coco.png<>uid://cnbistshucnj::::res://sprites/sprite_oleo-identificado1 (1).png<>uid://c6e40ic0yydjv::::res://sprites/sprite_cesto.png<>uid://4adg71o511ie::::res://sprites/sprite_Leite1 (1).png<>uid://dnioenave857p::::res://sprites/sprite_carvão0 (1).png<>uid://57mlpj1oxsbh::::res://character/scenes/slot_equipment.tscn
+slot.tscn::PackedScene::6546414326672253289::1731074218::0::1::::<><>::res://character/scripts/slot.gd<>uid://cdylew3q5hkos::::res://Terrain/Ground/Shadows.png
+slot_equipment1.tscn::PackedScene::6181728832695279008::1731074218::0::1::::<><>::res://character/scripts/slot_equipment.gd<>uid://cdylew3q5hkos::::res://Terrain/Ground/Shadows.png
+slot_equipment.tscn::PackedScene::2172474447871482249::1731074218::0::1::::<><>::res://character/scripts/slot_equipment.gd<>uid://cdylew3q5hkos::::res://Terrain/Ground/Shadows.png
+::res://character/scripts/::1731078776
+character.gd::GDScript::-1::1731078776::0::1::::Character<>CharacterBody2D<>::
+enum.gd::GDScript::-1::1731074218::0::1::::Enum<>RefCounted<>::
+slot.gd::GDScript::-1::1731074218::0::1::::Slot<>Control<>::
+slot_equipment.gd::GDScript::-1::1731074218::0::1::::<>Slot<>::
+ui_inventory.gd::GDScript::-1::1731074218::0::1::::<>Control<>::
+::res://components/::1731078729
+::res://components/scenes/::1731079669
+door_component.tscn::PackedScene::6267274436352964715::1731079669::0::1::::<><>::res://components/scripts/door_component.gd
+::res://components/scripts/::1731079155
+door_component.gd::GDScript::-1::1731079155::0::1::::DoorComponent<>Area2D<>::
+::res://Factions/::1731074218
+::res://Factions/Goblins/::1731074218
+::res://Factions/Goblins/Buildings/::1731074218
+::res://Factions/Goblins/Buildings/Wood_House/::1731078085
+Goblin_House.png::CompressedTexture2D::9105953562532466090::1731074218::1731078085::1::::<><>::
+Goblin_House_Destroyed.png::CompressedTexture2D::5006706850806294282::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Buildings/Wood_Tower/::1731078085
+Wood_Tower_Blue.png::CompressedTexture2D::938311579514125897::1731074218::1731078085::1::::<><>::
+Wood_Tower_Destroyed.png::CompressedTexture2D::7398157685006617343::1731074218::1731078085::1::::<><>::
+Wood_Tower_InConstruction.png::CompressedTexture2D::4475075497747303934::1731074218::1731078085::1::::<><>::
+Wood_Tower_Purple.png::CompressedTexture2D::7193113635842421740::1731074218::1731078085::1::::<><>::
+Wood_Tower_Red.png::CompressedTexture2D::3373531301671382363::1731074218::1731078085::1::::<><>::
+Wood_Tower_Yellow.png::CompressedTexture2D::7890581479253519311::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/::1731074218
+::res://Factions/Goblins/Troops/Barrel/::1731074218
+::res://Factions/Goblins/Troops/Barrel/Blue/::1731078085
+Barrel_Blue.png::CompressedTexture2D::5834898559148433253::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/Barrel/Purple/::1731078085
+Barrel_Purple.png::CompressedTexture2D::8192105664424358745::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/Barrel/Red/::1731078085
+Barrel_Red.png::CompressedTexture2D::2683649350661712721::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/Barrel/Yellow/::1731078085
+Barrel_Yellow.png::CompressedTexture2D::7238575145365662555::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/TNT/::1731074218
+::res://Factions/Goblins/Troops/TNT/Blue/::1731078085
+TNT_Blue.png::CompressedTexture2D::2897176050629040126::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/TNT/Dynamite/::1731078085
+Dynamite.png::CompressedTexture2D::6868489239197627440::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/TNT/Purple/::1731078085
+TNT_Purple.png::CompressedTexture2D::4229882282292706536::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/TNT/Red/::1731078085
+TNT_Red.png::CompressedTexture2D::4423844469022710637::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/TNT/Yellow/::1731078085
+TNT_Yellow.png::CompressedTexture2D::3708555040437506765::1731074218::1731078085::1::::<><>::
+::res://Factions/Goblins/Troops/Torch/::1731074218
+::res://Factions/Goblins/Troops/Torch/Blue/::1731078084
+Torch_Blue.png::CompressedTexture2D::6796931206061355726::1731074218::1731078084::1::::<><>::
+::res://Factions/Goblins/Troops/Torch/Purple/::1731078084
+Torch_Purple.png::CompressedTexture2D::6111432398377158303::1731074218::1731078084::1::::<><>::
+::res://Factions/Goblins/Troops/Torch/Red/::1731078084
+Torch_Red.png::CompressedTexture2D::2709289514148830015::1731074218::1731078084::1::::<><>::
+::res://Factions/Goblins/Troops/Torch/Yellow/::1731078084
+Torch_Yellow.png::CompressedTexture2D::3997734419156105726::1731074218::1731078084::1::::<><>::
+::res://Factions/Knights/::1731074218
+::res://Factions/Knights/Buildings/::1731074218
+::res://Factions/Knights/Buildings/Castle/::1731078084
+Castle_Blue.png::CompressedTexture2D::7276686622304319533::1731074218::1731078084::1::::<><>::
+Castle_Construction.png::CompressedTexture2D::4603488985276990753::1731074218::1731078084::1::::<><>::
+Castle_Destroyed.png::CompressedTexture2D::149566018400522683::1731074218::1731078084::1::::<><>::
+Castle_Purple.png::CompressedTexture2D::6418271430704735858::1731074218::1731078084::1::::<><>::
+Castle_Red.png::CompressedTexture2D::5750734080420062383::1731074218::1731078084::1::::<><>::
+Castle_Yellow.png::CompressedTexture2D::7725509231852493167::1731074218::1731078084::1::::<><>::
+::res://Factions/Knights/Buildings/House/::1731078085
+House_Blue.png::CompressedTexture2D::499817443541277694::1731074218::1731078084::1::::<><>::
+House_Construction.png::CompressedTexture2D::8616155425608123099::1731074218::1731078084::1::::<><>::
+House_Destroyed.png::CompressedTexture2D::6562014969970297973::1731074218::1731078084::1::::<><>::
+House_Purple.png::CompressedTexture2D::485874084690845652::1731074218::1731078084::1::::<><>::
+House_Red.png::CompressedTexture2D::6717984234982173997::1731074218::1731078084::1::::<><>::
+House_Yellow-1.png.png::CompressedTexture2D::3182664033068192366::1731074218::1731078085::1::::<><>::
+House_Yellow.png::CompressedTexture2D::4427157145352367859::1731074218::1731078085::1::::<><>::
+::res://Factions/Knights/Buildings/Tower/::1731078086
+Tower_Blue.png::CompressedTexture2D::8313070289206305475::1731074218::1731078085::1::::<><>::
+Tower_Construction.png::CompressedTexture2D::7085730652925035171::1731074218::1731078086::1::::<><>::
+Tower_Destroyed.png::CompressedTexture2D::1221418140446581794::1731074218::1731078086::1::::<><>::
+Tower_Purple.png::CompressedTexture2D::2477020742753797103::1731074218::1731078086::1::::<><>::
+Tower_Red.png::CompressedTexture2D::8655825299042954785::1731074218::1731078086::1::::<><>::
+Tower_Yellow.png::CompressedTexture2D::4243773726334359243::1731074218::1731078086::1::::<><>::
+::res://Factions/Knights/Troops/::1731074218
+::res://Factions/Knights/Troops/Archer/::1731074218
+::res://Factions/Knights/Troops/Archer/Archer + Bow/::1731078086
+Archer_Blue_(NoArms).png::CompressedTexture2D::4658360252482183215::1731074218::1731078086::1::::<><>::
+Archer_Bow_Blue.png::CompressedTexture2D::3844469997993954152::1731074218::1731078086::1::::<><>::
+Archer_Bow_Purple.png::CompressedTexture2D::8227127226384809395::1731074218::1731078086::1::::<><>::
+Archer_Bow_Red.png::CompressedTexture2D::1524414190704813175::1731074218::1731078086::1::::<><>::
+Archer_Bow_Yellow.png::CompressedTexture2D::8592572534204747510::1731074218::1731078086::1::::<><>::
+Archer_Purple_(NoArms).png::CompressedTexture2D::3548575203790236314::1731074218::1731078086::1::::<><>::
+Archer_Red_(NoArms).png::CompressedTexture2D::967723219077447869::1731074218::1731078086::1::::<><>::
+Archer_Yellow_(NoArms).png::CompressedTexture2D::2230296339753781834::1731074218::1731078086::1::::<><>::
+::res://Factions/Knights/Troops/Archer/Arrow/::1731078086
+Arrow.png::CompressedTexture2D::6050610975387370681::1731074218::1731078086::1::::<><>::
+::res://Factions/Knights/Troops/Archer/Blue/::1731078087
+Archer_Blue.png::CompressedTexture2D::9102773586485253989::1731074218::1731078087::1::::<><>::
+::res://Factions/Knights/Troops/Archer/Purple/::1731078087
+Archer_Purlple.png::CompressedTexture2D::5866218260525637199::1731074218::1731078087::1::::<><>::
+::res://Factions/Knights/Troops/Archer/Red/::1731078087
+Archer_Red.png::CompressedTexture2D::4698576150131377970::1731074218::1731078087::1::::<><>::
+::res://Factions/Knights/Troops/Archer/Yellow/::1731078087
+Archer_Yellow.png::CompressedTexture2D::661185475317295707::1731074218::1731078087::1::::<><>::
+::res://Factions/Knights/Troops/Dead/::1731078086
+Dead.png::CompressedTexture2D::924239588970668520::1731074218::1731078086::1::::<><>::
+::res://Factions/Knights/Troops/Pawn/::1731074218
+::res://Factions/Knights/Troops/Pawn/Blue/::1731078085
+Pawn_Blue.png::CompressedTexture2D::1229859363898626387::1731074218::1731078085::1::::<><>::
+::res://Factions/Knights/Troops/Pawn/Purple/::1731078085
+Pawn_Purple.png::CompressedTexture2D::3472674156353717671::1731074218::1731078085::1::::<><>::
+::res://Factions/Knights/Troops/Pawn/Red/::1731078085
+Pawn_Red.png::CompressedTexture2D::7413285870637920049::1731074218::1731078085::1::::<><>::
+::res://Factions/Knights/Troops/Pawn/Yellow/::1731078085
+Pawn_Yellow.png::CompressedTexture2D::4504503668429643224::1731074218::1731078085::1::::<><>::
+::res://Factions/Knights/Troops/Warrior/::1731074218
+::res://Factions/Knights/Troops/Warrior/Blue/::1731078086
+Warrior_Blue.png::CompressedTexture2D::2345505395233457198::1731074218::1731078086::1::::<><>::
+::res://Factions/Knights/Troops/Warrior/Purple/::1731078086
+Warrior_Purple.png::CompressedTexture2D::7084131552657501435::1731074218::1731078086::1::::<><>::
+::res://Factions/Knights/Troops/Warrior/Red/::1731078086
+Warrior_Red.png::CompressedTexture2D::328123045729239053::1731074218::1731078086::1::::<><>::
+::res://Factions/Knights/Troops/Warrior/Yellow/::1731078086
+Warrior_Yellow.png::CompressedTexture2D::2735324827759753592::1731074218::1731078086::1::::<><>::
+::res://Fire/::1731078086
+Fire.png::CompressedTexture2D::708151376860037386::1731074218::1731078085::1::::<><>::
+GoldMine_Active-1.png (1).png::CompressedTexture2D::8940859856460672539::1731074218::1731078085::1::::<><>::
+GoldMine_Active-1.png.png::CompressedTexture2D::2604274186991991998::1731074218::1731078086::1::::<><>::
+::res://sprites/::1731078086
+Carved_9Slides.png::CompressedTexture2D::9103990069881398755::1731074219::1731078086::1::::<><>::
+machado.png::CompressedTexture2D::3330496843792110748::1731074219::1731078086::1::::<><>::
+sprite_carvão0 (1).png::CompressedTexture2D::8089089905244926383::1731074219::1731078086::1::::<><>::
+sprite_cesto.png::CompressedTexture2D::6958758893264609715::1731074219::1731078086::1::::<><>::
+sprite_coco.png::CompressedTexture2D::3788981925599979269::1731074219::1731078086::1::::<><>::
+sprite_Leite1 (1).png::CompressedTexture2D::2035671052834025580::1731074219::1731078086::1::::<><>::
+sprite_oleo-identificado1 (1).png::CompressedTexture2D::167290577022414811::1731074219::1731078086::1::::<><>::
+sprite_sabão0 (1).png::CompressedTexture2D::4809802845339648254::1731074219::1731078086::1::::<><>::
+::res://Terrain/::1731078084
+Palmeira floresta.png::CompressedTexture2D::8659245501643078338::1731074218::1731078084::1::::<><>::
+::res://Terrain/Bridge/::1731078082
+Bridge_All.png::CompressedTexture2D::150727317735402666::1731074218::1731078082::1::::<><>::
+::res://Terrain/Cenário 3/::1731078085
+WhatsApp Image 2024-11-05 at 19.51.32 (1)-1.png (1).png::CompressedTexture2D::1639719928125940226::1731074218::1731078084::1::::<><>::
+WhatsApp Image 2024-11-05 at 19.51.32 (1)-1.png (2).png::CompressedTexture2D::4484113584034065802::1731074218::1731078085::1::::<><>::
+::res://Terrain/Externo/::1731078084
+icon.svg::CompressedTexture2D::1665760850751211657::1731074218::1731078084::1::::<><>::
+items free.png::CompressedTexture2D::4070739118511736642::1731074218::1731078084::1::::<><>::
+New Piskel-2-1.png.png::CompressedTexture2D::5561086608444452912::1731074218::1731078084::1::::<><>::
+Palmeira-1.png::CompressedTexture2D::2757886643526060271::1731074218::1731078084::1::::<><>::
+Palmeira.png::CompressedTexture2D::1954217359440355784::1731074218::1731078084::1::::<><>::
+plants free.png::CompressedTexture2D::7613420380813384743::1731074218::1731078084::1::::<><>::
+Tree0.png::CompressedTexture2D::1046970117083569464::1731074218::1731078084::1::::<><>::
+Tree1.png::CompressedTexture2D::2358730303846643146::1731074218::1731078084::1::::<><>::
+Tree2.png::CompressedTexture2D::4195741583982410680::1731074218::1731078084::1::::<><>::
+Water_Middle.png::CompressedTexture2D::8781519877467166710::1731074218::1731078084::1::::<><>::
+Water_Tile-0.png::CompressedTexture2D::1625602883024228886::1731074218::1731078084::1::::<><>::
+Water_Tile.png::CompressedTexture2D::3227968504712352488::1731074218::1731078084::1::::<><>::
+::res://Terrain/Externo/_srw_tileset_0-1.png/::1731078082
+sprite_0.png::CompressedTexture2D::8944006901734034520::1731074218::1731078082::1::::<><>::
+sprite_1.png::CompressedTexture2D::5922304599683072150::1731074218::1731078082::1::::<><>::
+sprite_2.png::CompressedTexture2D::6705501987297126515::1731074218::1731078082::1::::<><>::
+sprite_3.png::CompressedTexture2D::1922864577230605572::1731074218::1731078082::1::::<><>::
+sprite_4.png::CompressedTexture2D::8935327098624096253::1731074218::1731078082::1::::<><>::
+::res://Terrain/Externo/Casa e vila/::1731078083
+artwork-1.png.png::CompressedTexture2D::2699412630851173980::1731074218::1731078082::1::::<><>::
+casa-1.png.png::CompressedTexture2D::5468740562837703684::1731074218::1731078083::1::::<><>::
+farm objects free.png::CompressedTexture2D::2775074994328584679::1731074218::1731078082::1::::<><>::
+furniture free.png::CompressedTexture2D::1506867761070672115::1731074218::1731078082::1::::<><>::
+mapa.png::CompressedTexture2D::5611815437916408515::1731074218::1731078083::1::::<><>::
+::res://Terrain/Externo/Feirinha/::1731078083
+atlas_48x-1.png (2).png::CompressedTexture2D::4662530197066994538::1731074218::1731078083::1::::<><>::
+atlas_48x-1.png.png::CompressedTexture2D::1253813974450909967::1731074218::1731078083::1::::<><>::
+farm bridges free.png::CompressedTexture2D::4268964621747113852::1731074218::1731078082::1::::<><>::
+farm inside free.png::CompressedTexture2D::7296509905673670943::1731074218::1731078082::1::::<><>::
+items free-1.png (1)-1.png.png::CompressedTexture2D::6169141833919339160::1731074218::1731078082::1::::<><>::
+sprite_Feira0-1.png.png::CompressedTexture2D::7480332249122156112::1731074218::1731078082::1::::<><>::
+::res://Terrain/Externo/Feirinha/atlas_48x-1.png (2)/::1731078083
+sprite_Feira0.png::CompressedTexture2D::1887903389178039958::1731074218::1731078083::1::::<><>::
+sprite_Feira1.png::CompressedTexture2D::6680636485103960701::1731074218::1731078083::1::::<><>::
+sprite_Feira2.png::CompressedTexture2D::8253808446346645802::1731074218::1731078083::1::::<><>::
+sprite_Feira3.png::CompressedTexture2D::2912898116280899536::1731074218::1731078083::1::::<><>::
+::res://Terrain/Externo/Floresta/::1731078082
+Beach_Tile.png::CompressedTexture2D::4282676551289312103::1731074218::1731078082::1::::<><>::
+Cliff_Tile.png::CompressedTexture2D::5795214154482466716::1731074218::1731078082::1::::<><>::
+FarmLand_Tile.png::CompressedTexture2D::4982285437278298246::1731074218::1731078082::1::::<><>::
+Grass_Middle.png::CompressedTexture2D::5245282675406967354::1731074218::1731078082::1::::<><>::
+House-1.png.png::CompressedTexture2D::5269534788698899588::1731074218::1731078082::1::::<><>::
+Oak_Tree-1.png.png::CompressedTexture2D::7502227038167739644::1731074218::1731078082::1::::<><>::
+objects.png::CompressedTexture2D::3342309092279979148::1731074218::1731078082::1::::<><>::
+Path_Middle.png::CompressedTexture2D::8884842524049317056::1731074218::1731078082::1::::<><>::
+Path_Tile.png::CompressedTexture2D::4481941220661830276::1731074218::1731078082::1::::<><>::
+seasonal sample (summer).png::CompressedTexture2D::9070915890194745130::1731074218::1731078082::1::::<><>::
+spring farm tilemap.png::CompressedTexture2D::5989259882381288349::1731074218::1731078082::1::::<><>::
+::res://Terrain/Externo/Leite de coco/::1731078082
+sprite_Leite0.png::CompressedTexture2D::2645168990751436050::1731074218::1731078082::1::::<><>::
+sprite_Leite1.png::CompressedTexture2D::6644532698655641673::1731074218::1731078082::1::::<><>::
+::res://Terrain/Externo/sprite_carvão/::1731078084
+sprite_carvão0.png::CompressedTexture2D::3774292615764555953::1731074218::1731078082::1::::<><>::
+sprite_carvão1.png::CompressedTexture2D::5797580284960315735::1731074218::1731078084::1::::<><>::
+::res://Terrain/Externo/sprite_sabão/::1731078084
+sprite_sabão0.png::CompressedTexture2D::7236403324433124674::1731074218::1731078084::1::::<><>::
+sprite_sabão1.png::CompressedTexture2D::509178069007602624::1731074218::1731078084::1::::<><>::
+sprite_sabão2.png::CompressedTexture2D::5220504885499052383::1731074218::1731078084::1::::<><>::
+::res://Terrain/Externo/Óleo identificado/::1731078084
+sprite_oleo-identificado0.png::CompressedTexture2D::4752937219323843272::1731074218::1731078084::1::::<><>::
+sprite_oleo-identificado1.png::CompressedTexture2D::8370539012192551586::1731074218::1731078084::1::::<><>::
+::res://Terrain/Ground/::1731078084
+Shadows.png::CompressedTexture2D::5033629194029355438::1731074218::1731078084::1::::<><>::
+Terra.png::CompressedTexture2D::8657708949194598142::1731074218::1731078083::1::::<><>::
+Tilemap_Elevation.png::CompressedTexture2D::7354411009015427714::1731074218::1731078083::1::::<><>::
+Tilemap_Elevation_brown.png::CompressedTexture2D::3617900925489520614::1731074218::1731078083::1::::<><>::
+Tilemap_Flat.png::CompressedTexture2D::5397888931414696330::1731074218::1731078083::1::::<><>::
+::res://Terrain/Water/::1731078084
+sprite_1.png::CompressedTexture2D::2971920482109379454::1731074218::1731078083::1::::<><>::
+Terra-1.png.png::CompressedTexture2D::7626118857937509023::1731074218::1731078083::1::::<><>::
+Terra-Lago2png.png::CompressedTexture2D::34592293597293118::1731074218::1731078083::1::::<><>::
+Terra-Lago.png::CompressedTexture2D::1454416787280361621::1731074218::1731078083::1::::<><>::
+Water.png::CompressedTexture2D::5920756825008706132::1731074218::1731078083::1::::<><>::
+Água.png::CompressedTexture2D::1265232892551147009::1731074218::1731078083::1::::<><>::
+::res://Terrain/Water/Foam/::1731078083
+Foam.png::CompressedTexture2D::1338455372477717103::1731074218::1731078083::1::::<><>::
+::res://Terrain/Water/Rocks/::1731078083
+Rocks_01.png::CompressedTexture2D::9070689883024648100::1731074218::1731078083::1::::<><>::
+Rocks_02.png::CompressedTexture2D::7700635951937384365::1731074218::1731078083::1::::<><>::
+Rocks_03.png::CompressedTexture2D::2843194578380882624::1731074218::1731078083::1::::<><>::
+Rocks_04.png::CompressedTexture2D::6685912202585500527::1731074218::1731078083::1::::<><>::
